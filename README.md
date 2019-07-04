@@ -1,2 +1,2 @@
-# Image-processing
+# Gesture Recognition
 Basics
